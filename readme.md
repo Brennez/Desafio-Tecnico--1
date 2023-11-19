@@ -9,7 +9,7 @@ Certifique-se de ter o ambiente Dart instalado em seu sistema. Você pode baixá
 1. Clone este repositório, executando os seguintes comando:
 
     ```bash
-    git clone git@github.com:Brennez/Desafio-Tecnico--1.git
+    git clone git@github.com:Brennez/Desafio-Tecnico-1.git
     ```
     ```bash
      cd Desafio-1
