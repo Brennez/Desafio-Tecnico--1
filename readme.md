@@ -12,7 +12,7 @@ Certifique-se de ter o ambiente Dart instalado em seu sistema. Você pode baixá
     git clone git@github.com:Brennez/Desafio-Tecnico-1.git
     ```
     ```bash
-     cd Desafio-1
+     cd Desafio-Tecnico-1
     ```
 
 2. Execute o programa Dart:
